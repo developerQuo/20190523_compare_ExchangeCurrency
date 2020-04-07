@@ -16,7 +16,7 @@
 ### 환율고시 예시
 ***
 <p align="center">
-<img src="/img/exCurrTable.JPG" width="60%" height="40%" title="테이블"></img>
+<img src="/img/exCurrTable.JPG" width="100%" height="80%" title="테이블"></img>
 </p>   
    
 * 주요 은행별로 위안화 환율을 크롤링하였다.
